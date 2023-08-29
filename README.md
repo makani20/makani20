@@ -3,9 +3,11 @@ Master Of Computer Application(MCA)
 Gujarat Technological University(GTU), Ahmedabad, India                                       
 [E-mail](mailto:makani20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/makani20/) | [Twitter](https://twitter.com/makani20) | [GitHub](https://github.com/makani20)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makani20&label=Profile%20views&color=0e75b6&style=flat" alt="makani20" /> </p>
+
 <div>
     <a href="https://calendly.com/makani20/15min">
-        <img height="40px" src="call-button.png"></img>
+        <img height="40px" src="./call-button.png"></img>
     </a>
 </div>
 
