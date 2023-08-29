@@ -3,7 +3,11 @@ Master Of Computer Application(MCA)
 Gujarat Technological University(GTU), Ahmedabad, India                                       
 [E-mail](mailto:makani20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/makani20/) | [Twitter](https://twitter.com/makani20) | [GitHub](https://github.com/makani20)
 
-<div><a href="https://calendly.com/makani20/15min"><img height="40px" src="./call-button.png"></img></a></div>
+<div>
+    <a href="https://calendly.com/makani20/15min">
+        <img height="40px" src="./call-button.png"></img>
+    </a>
+</div>
 
 ## Skills
 <div align=right>
@@ -19,7 +23,6 @@ Gujarat Technological University(GTU), Ahmedabad, India
 * Full stack software engineering
 * Simulation and Modelling
 * Cloud computation
-
 
 ## Tools and Technologies
 
