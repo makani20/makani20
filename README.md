@@ -5,7 +5,7 @@ Gujarat Technological University(GTU), Ahmedabad, India
 
 <div>
     <a href="https://calendly.com/makani20/15min">
-        <img height="40px" src="./call-button.png"></img>
+        <img height="40px" src="call-button.png"></img>
     </a>
 </div>
 
