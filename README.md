@@ -27,40 +27,27 @@ Gujarat Technological University(GTU), Ahmedabad, India
 * Cloud computation
 
 ## Tools and Technologies 
-<p align="left">
-    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-            alt="android studio" width="40" height="40" /> </a>
- <a href="https://developer.apple.com" target="_blank" title ="xcode"> <img
-            src="https://www.svgrepo.com/show/376351/swift.svg"
-            alt="xcode" width="40" height="40" /> </a>
- <a href="https:https://reactnative.dev/" target="_blank" title ="react native"> <img
-            src="https://www.svgrepo.com/show/354259/react.svg"
-            alt="React Native" width="40" height="40" /> </a>
- <a href="https://flutter.dev/" target="_blank" title ="flutter"> <img
-            src="https://www.svgrepo.com/show/353751/flutter.svg"
-            alt="Flutter" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" title ="Postman"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" title ="Python"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
-            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-            alt="tkinter" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-            alt="typescript" width="40" height="40" /> </a>
-    <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
-            src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
-            alt="unreal engine" width="40" height="40" /> </a>
-</p>
+<p align="center"> 
 
-<hr />
+<img alt="Swift" src="https://img.shields.io/badge/SwiftUI-21759B?style=for-the-badge&logo=swift&logoColor=orange" />
+<img alt="Android" src=  https://img.shields.io/badge/android-21759B?style=for-the-badge&logo=android&logoColor=green />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="React Native" src="https://img.shields.io/badge/reactnative-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%23F7DF1E" />
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-%2300599C.svg?&style=for-the-badge&logo=flutter&ogoColor=blue" />
+
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="React" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+<img alt="Vs-Code" src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="PyTorch" src=  https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white />
+<img alt="TensorFlow" src= https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white />
+<img alt="Flask" src= https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white />
+<img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
+<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /> 
+</p>
 
 ### :fire: My Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makani20&show_icons=true&locale=en&layout=compact" alt="makani20" /></p>
